@@ -42,7 +42,7 @@ class Calculator {
         case '-':
           calculation = prev - current;
           break;
-        case '*':
+        case 'x':
           calculation = prev * current;
           break;
         case '÷':
